@@ -61,17 +61,3 @@ loop.run()
 
 > **NOTE:**
 > Many terminals will turn foreground colors into their bright versions when you use bold, eg: `'dark blue,bold'` might look the same as `'light blue'`. Some terminals also will display bright colors in a bold font even if you don’t specify bold. To inhibit this you can try setting `bright_is_bold=False` with `BaseScreen.set_terminal_properties()`, but it is not always supported.
-
-### Valid Colors (Windows Terminal)
-16-Color (FG)
-![[16-color(fg).png]]
-88-Color (FG)
-![[88-color(fg).png]]
-256-Color (FG)
-![[256-color(fg).png]]
-16-Color (BG)
-![[16-color(bg.png]]
-88-Color (BG)
-![[88-color(bg).png]]
-256-Color (BG)
-![[256-color(bg).png]]
