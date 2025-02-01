@@ -1,3 +1,5 @@
+### Counter App
+
 CODE
 ```py
 import pyfiglet as pf
