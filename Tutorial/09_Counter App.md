@@ -41,3 +41,7 @@ loop = MainLoop(fill, palette, unhandled_input=Exit)
 loop.screen.set_terminal_properties(256)
 loop.run()
 ```
+EXPLANATION
+- Just a simple app that increases count based on keypresses like Plus to increase the number and Minus to decrease it.
+- It uses `pyfiglet` to show a ascii art of that number.
+- Uses all the logic learned till now and nothing more.
