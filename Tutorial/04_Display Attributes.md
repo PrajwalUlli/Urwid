@@ -61,3 +61,24 @@ loop.run()
 
 > **NOTE:**
 > Many terminals will turn foreground colors into their bright versions when you use bold, eg: `'dark blue,bold'` might look the same as `'light blue'`. Some terminals also will display bright colors in a bold font even if you don’t specify bold. To inhibit this you can try setting `bright_is_bold=False` with `BaseScreen.set_terminal_properties()`, but it is not always supported.
+
+
+
+### Valid Colors
+<u>16-color(bg)</u>
+![16-color(bg)](https://github.com/PrajwalUlli/Urwid/blob/main/Tutorial/images/16-color(bg).png)
+
+<u>16-color(fg)</u>
+![16-color(fg)](https://github.com/PrajwalUlli/Urwid/blob/main/Tutorial/images/16-color(fg).png)
+
+<u>256-color(bg)</u>
+![256-color(bg)](https://github.com/PrajwalUlli/Urwid/blob/main/Tutorial/images/256-color(bg).png)
+
+<u>256-color(fg)</u>
+![16-color(fg)](https://github.com/PrajwalUlli/Urwid/blob/main/Tutorial/images/256-color(fg).png)
+
+<u>88-color(bg)</u>
+![88-color(bg)](https://github.com/PrajwalUlli/Urwid/blob/main/Tutorial/images/88-color(bg).png)
+
+<u>88-color(fg)</u>
+![16-color(fg)](https://github.com/PrajwalUlli/Urwid/blob/main/Tutorial/images/88-color(fg).png)
