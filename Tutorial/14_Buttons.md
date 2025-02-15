@@ -56,4 +56,4 @@ loop.run()
 
 EXPLANATION
 - Works just like a button and syntax similar to an `Edit` widget
-- The `CustButton` is a custom subclass inheriting from the `Button` widget and removes those ugly angle brackets they have going on. 
+- The `CustButton` is a custom subclass inheriting from the [`Button`](https://urwid.org/reference/widget.html#urwid.Button) widget and removes those ugly angle brackets they have going on. 
